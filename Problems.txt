@@ -1,0 +1,20 @@
+Exercise 1
+Your product owner has reported that a bug has been found.
+To recreate, try and book more tickets than there are available. What happens?
+In your code editor, please fix the bug.
+
+Exercise 2
+The program assumes that a user will input a certain set of characters.
+What happens when you input something that the program does not expect?
+In your code editor, can you improve this experience for the user?
+
+Exercise 3
+The company has purchased a new fleet of trains and they can now offer 5 first class seats
+priced at €150 per seat.
+They would like to allow customers to book either standard or first-class seating through the
+program.
+In your code editor, please add this new functionality to the program.
+Some things to consider in your solution:
+• How will the customer be able to specify standard or first class.
+• How will the program now determine the price of the booking?
+• How do we calculate the number of available seats, now that we have two ticket types?
